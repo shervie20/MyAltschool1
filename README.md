@@ -1,0 +1,1 @@
+#This was done without css, pre tag was use to flex the input menu. and was formatted using some HTML special symbol
